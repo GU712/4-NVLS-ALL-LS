@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qnTS1Gx/NVLS-SERV-2.png" group-title="[COLOR orange][B] SELECIONE UM ITEM ABAIXO[/B][/COLOR]",[COLOR black].[/COLOR]
 LINKDOFILME
  
-#EXTINF:-1 tvg-logo="http://fsrv.me:80/images/c6a186750138ec261d377566ba5e5979.jpg"  group-title="[COLOR orange][B]Novelas [COLOR yellow]->[COLOR white] A Dona Do Pedaco [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Dona do Pedaço T01E01[/B][/COLOR]
+#EXTINF:-1 tvg="http://fsrv.me:80/images/c6a186750138ec261d377566ba5e5979.jpg"  group-title="[COLOR orange][B]Novelas [COLOR yellow]->[COLOR white] A Dona Do Pedaco [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Dona do Pedaço T01E01[/B][/COLOR]
 http://b5.vc:80/series/edigar/102030/57090.mp4
 #EXTINF:-1 tvg-logo="http://fsrv.me:80/images/2ac3c3cac45efc7cca3c07b4252f460d.jpg"  group-title="[COLOR orange][B]Novelas [COLOR yellow]->[COLOR white] A Dona Do Pedaco [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Dona do Pedaço T01E02[/B][/COLOR]
 http://b5.vc:80/series/edigar/102030/57091.mp4
